@@ -15,5 +15,5 @@
 homepage: "https://www.adxcg.com"
 documentation: "https://www.github.com/adxcgcom/adxcg-gtm-simple-pixel"
 versions:
-  - sha: 4518b1f2eeb47d9fb00c50b523c4d55f50d60b32
+  - sha: bfa78f138161f1dd08922bd56884fa27576d3a00
     changeNotes: Initial Version
