@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://www.adxcg.com"
-documentation: "https://www.github.com/adxcgcom/adxcg-gtm-simple-pixel"
+documentation: "https://github.com/adxcgcom/adxcg-gtm-template-simple-pixel"
 versions:
   - sha: bfa78f138161f1dd08922bd56884fa27576d3a00
     changeNotes: Initial Version
